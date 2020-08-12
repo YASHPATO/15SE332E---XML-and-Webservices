@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="bookinformation.xsl"?>
+<bookinformation>
+  <book>
+    <title>People Powered</title>
+    <author>Jono Bacon</author>
+    <genre>Business</genre>
+    <copyrightyear>2019</copyrightyear>
+    <edition>1st</edition>
+    <ISBNnumber>978-1400214884</ISBNnumber>
+    <publisher>HarperCollins Leadership</publisher>
+    <price>1900</price>
+  </book>
+  <book>
+    <title>Get Together</title>
+    <author>Bailey Richardson</author>
+    <genre>Management</genre>
+    <copyrightyear>2019</copyrightyear>
+    <edition>1st</edition>
+    <ISBNnumber>978-1732265196</ISBNnumber>
+    <publisher>Stripe Press</publisher>
+    <price>2300</price>
+  </book>
+  <book>
+    <title>The Art of Community</title>
+    <author>Charles Vogl</author>
+    <genre>Community</genre>
+    <copyrightyear>2016</copyrightyear>
+    <edition>1st</edition>
+    <ISBNnumber>978-1626568419</ISBNnumber>
+    <publisher>McGraw-Hill Education</publisher>
+    <price>1350</price>
+  </book>
+  <book>
+    <title>Start with Why</title>
+    <author>Simon Sinek</author>
+    <genre>Business</genre>
+    <copyrightyear>2011</copyrightyear>
+    <edition>1st</edition>
+    <ISBNnumber>978-0241958223</ISBNnumber>
+    <publisher>Penguin UK</publisher>
+    <price>1600</price>
+  </book>
+  <book>
+    <title>Shoe Dog</title>
+    <author>Phil Knight</author>
+    <genre>Memoir</genre>
+    <copyrightyear>2016</copyrightyear>
+    <edition>1st</edition>
+    <ISBNnumber>978-1471146725</ISBNnumber>
+    <publisher> Simon and Schuster</publisher>
+    <price>2500</price>
+  </book>
+</bookinformation>
